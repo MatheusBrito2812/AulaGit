@@ -1,1 +1,2 @@
 Esse é um teste da aula de git.
+Charizard usou Blast Burn.
